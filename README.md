@@ -1,8 +1,13 @@
 # Parcel + Vue + Jest
 
-## Build Setup
+## Setup
 
 ``` bash
-yarn
+yarn && yarn dev
+```
+
+## Run tests
+
+``` bash
 yarn test
 ```
